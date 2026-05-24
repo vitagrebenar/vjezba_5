@@ -1,0 +1,33 @@
+<!--zadatak 1-->
+<!--Prvi <BBB> u svakom roditelju-->
+<BBB id="b1" grupa="A">XML</BBB>
+<BBB id="b4" grupa="C">DOM</BBB>
+<BBB id="b5">JSON</BBB>
+<BBB id="b6" name="zadnji">JavaScript</BBB>
+
+<!--zadatak 2-->
+<!--Prvi BBB koji su direktna djeca AAA-->
+<BBB id="b1" grupa="A">XML</BBB>
+
+<!--zadatak 3-->
+<!--Zadnji BBB u svakom roditelju-->
+<BBB name="bbb" grupa="A">XSLT</BBB>
+<BBB id="b4" grupa="C">DOM</BBB>
+<BBB name="test">AJAX</BBB>
+<BBB id="b6" name="zadnji">JavaScript</BBB>
+
+<!--zadatak 4-->
+<!--Prvo dijete od AAA-->
+<BBB id="b1" grupa="A">XML</BBB>
+
+<!--zadatak 5-->
+<!--BBB koji imaju i id i grupa-->
+<BBB id="b1" grupa="A">XML</BBB>
+<BBB id="b2" grupa="B">PHP</BBB>
+<BBB id="b4" grupa="C">DOM</BBB>
+
+<!--zadatak 6-->
+<!--BBB koji imaju id, ali nemaju grupa-->
+<BBB id="b3">XPath</BBB>
+<BBB id="b5">JSON</BBB>
+<BBB id="b6" name="zadnji">JavaScript</BBB>
