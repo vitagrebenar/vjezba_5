@@ -1,2 +1,14 @@
 <!--zadatak 1-->
 /Studenti/*
+
+<!--zadatak 2-->
+//Student/*
+
+<!--zadatak 3-->
+//Kolokvij[@*]
+
+<!--zadatak 4-->
+//@*
+
+<!--zadatak 5-->
+//Predmet//*
